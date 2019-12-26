@@ -1,0 +1,7 @@
+
+# Dependencises
+node_modules
+
+# Local IDE files/folders
+.idea
+.vscode
